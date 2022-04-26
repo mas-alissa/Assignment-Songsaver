@@ -1,0 +1,19 @@
+.center{
+    text-align: center;
+    margin:20px auto;
+     background-color: gray;
+      max-width: 75%;
+       padding: 10px;
+  }
+
+  .marginStyle{
+    margin-bottom: 25px;
+  }
+
+  tr td{
+    background-color: rosybrown;
+  }
+
+  .table{
+    width: 100%;
+  }
